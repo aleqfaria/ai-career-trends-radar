@@ -1,0 +1,6 @@
+pandas
+pytrends
+python-dotenv
+openai>=1.0.0
+jupyter
+apache-airflow==2.9.1
