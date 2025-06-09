@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings (opcional)
+.vscode/
+
+# Dados sensíveis e arquivos temporários
+*.sqlite
+*.db
+*.log
+*.pkl
+*.tmp
